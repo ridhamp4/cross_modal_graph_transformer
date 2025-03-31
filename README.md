@@ -1,6 +1,6 @@
 # Cross Modal Graph Transformers
 
-## This repository is part of a deep learning project aiming to innovate and extend existing graph transformer model to incorporate common features in case of cross modal information as in case of videos (i.e., Audio, video, text). For the sake of experimentation, we are using instagram reels for testing and intend to see implications on recommendation systems.
+This repository is part of a deep learning project aiming to innovate and extend existing graph transformer model to incorporate common features in case of cross modal information as in case of videos (i.e., Audio, video, text). For the sake of experimentation, we are using instagram reels for testing and intend to see implications on recommendation systems.
 
 ### Contributors of the Project:
 
